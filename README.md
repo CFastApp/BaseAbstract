@@ -1,2 +1,2 @@
 # BaseAbstract
-Una biblioteca para utilizar la localización del dispositivo para Android
+Una biblioteca para con implementaciones necesarias para nuestras Activity, Fragment y DialogFragment del dispositivo para Android
